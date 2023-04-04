@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Country Info
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is created using Create React App. You can query country's name to be given basic info about said country.
 
 ## Available Scripts
 
